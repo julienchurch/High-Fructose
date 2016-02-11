@@ -7,9 +7,9 @@ A vim color scheme based on Monokai.
 
 ## Installation
 
-Put the `highfructose.vim` file in ~/.vim/colors, then add the following to your `.vimrc`:
+Put the `highfructose.vim` file in `~/.vim/colors`, then add the following to your `.vimrc`:
 
-```
+```vim
 syntax enable
 colorscheme highfructose
 ```
